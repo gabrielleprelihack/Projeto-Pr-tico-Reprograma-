@@ -1,0 +1,23 @@
+{
+  "name": "projeto-pr-tico-reprograma-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielleprelihack/Projeto-Pr-tico-Reprograma-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielleprelihack/Projeto-Pr-tico-Reprograma-/issues"
+  },
+  "homepage": "https://github.com/gabrielleprelihack/Projeto-Pr-tico-Reprograma-#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.4"
+  }
+}
